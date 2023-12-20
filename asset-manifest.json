@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppScrip-task-Anuj_Kumar_Singh/static/css/main.07f14a6c.css",
+    "main.js": "/AppScrip-task-Anuj_Kumar_Singh/static/js/main.bdc86ef3.js",
+    "static/js/787.de259721.chunk.js": "/AppScrip-task-Anuj_Kumar_Singh/static/js/787.de259721.chunk.js",
+    "index.html": "/AppScrip-task-Anuj_Kumar_Singh/index.html",
+    "main.07f14a6c.css.map": "/AppScrip-task-Anuj_Kumar_Singh/static/css/main.07f14a6c.css.map",
+    "main.bdc86ef3.js.map": "/AppScrip-task-Anuj_Kumar_Singh/static/js/main.bdc86ef3.js.map",
+    "787.de259721.chunk.js.map": "/AppScrip-task-Anuj_Kumar_Singh/static/js/787.de259721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f14a6c.css",
+    "static/js/main.bdc86ef3.js"
+  ]
+}
